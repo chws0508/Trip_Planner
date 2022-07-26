@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Trip_Planner</string>
+    <string name="web_client_id">824860284550-9u7e66c85vluodm3q0gv19k6j4fr8600.apps.googleusercontent.com</string>
+
+    <!--Login 부분-->
+    <string name="signIn_KaKao">"카카오톡으로 계속하기"</string>
+    <string name="signIn_FaceBook">FaceBook으로 계속하기</string>
+    <string name="signIn_Introduction">앱을 이용하려면\n로그인이 필요합니다</string>
+    <string name="logIn_Email"><u>이메일로 로그인</u></string>
+    <string name="signIn_Email"><u>이메일로 가입</u></string>
+    <string name="signIn_Google">Google로 계속하기</string>
+    <string name="travel_phrase">다리 떨리기 전에,\n가슴 떨리면 떠나자</string>
+</resources>

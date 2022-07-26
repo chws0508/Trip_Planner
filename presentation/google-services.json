@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "824860284550",
+    "project_id": "trip-planner-4afc0",
+    "storage_bucket": "trip-planner-4afc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824860284550:android:1b7c40a09c3198ef9a2307",
+        "android_client_info": {
+          "package_name": "com.woosuk.trip_planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824860284550-41ce6hn68sqh9doi0mai2f7lmmoogd4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.woosuk.trip_planner",
+            "certificate_hash": "70049a65782af3d67d53b45a7adaf72e109c02d8"
+          }
+        },
+        {
+          "client_id": "824860284550-9u7e66c85vluodm3q0gv19k6j4fr8600.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Ym6lsPmpQa1JygEoJk8Kgv-gfD80dU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824860284550-9u7e66c85vluodm3q0gv19k6j4fr8600.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
